@@ -4,6 +4,8 @@ class Triangle
     puts triangle2 = 45
     puts triangle3 = 45
 
+
+
 end
 
 end
