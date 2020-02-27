@@ -1,9 +1,15 @@
 class Triangle
-  attr_accessor expect(Triangle.new(2, 2, 2).kind).to eq(:equilateral)
-  
-end
+  attr_accessor Isoceles Triangle
+    Angle1 = 90
+    Angle2 = 45
+    Angle3 = 45
+  end
 
-  def initialize(:Triangle1, :Triangle2, :Triangle3)
+  def initialize(:Angle1, :Angle2, :Angle3)
+    
+  end
+  
+  
 
 end
 
